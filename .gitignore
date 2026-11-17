@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+env/
+venv/
+
+# Binaries & Bundles
+bin/
+build/
+dist/
+*.spec
+
+# User recorded videos
+recordings/*.mp4
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
